@@ -21,7 +21,7 @@ body{
     grid-gap: 7rem;
     padding: 0 2rem;
 }
-h1{
-    font: 80px;
-    color: #0b2e13;
+.hel{
+    font-size: 80px;
+    color: red;
 }
